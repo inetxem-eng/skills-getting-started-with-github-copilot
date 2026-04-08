@@ -74,6 +74,42 @@ activities = {
         "schedule": "Mondays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu"]
+    },
+    "Tennis Club": {
+        "description": "Learn tennis techniques and participate in friendly matches",
+        "schedule": "Wednesdays and Saturdays, 3:00 PM - 4:30 PM",
+        "max_participants": 16,
+        "participants": ["ryan@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Competitive volleyball team for tournaments and friendly games",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": ["jessica@mergington.edu", "tyler@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques, composition, and digital editing",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["grace@mergington.edu"]
+    },
+    "Theater Club": {
+        "description": "Act in plays, musicals, and develop performance skills",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["noah@mergington.edu", "lily@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Explore scientific experiments and participate in science olympiad",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["benjamin@mergington.edu"]
+    },
+    "Math Competition Team": {
+        "description": "Prepare for math competitions and solve advanced problems",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["sophia@mergington.edu", "henry@mergington.edu"]
     }
 }
 
